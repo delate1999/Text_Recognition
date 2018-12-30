@@ -1,1 +1,2 @@
-Repo_T_R
+Text recognition accustomed to what3words format
+
